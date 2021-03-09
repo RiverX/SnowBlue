@@ -1,0 +1,26 @@
+module game {
+	export class GameControler extends game.ControlerBase {
+		private static _instance:game.GameControler;
+		private _view:game.GameView;
+		public constructor() {
+			super();
+		}
+		public static get Instance():game.GameControler{
+			if(this._instance == null){
+				this._instance = new game.GameControler();
+			}
+			return this._instance;
+		}
+		public  showPanel():void{
+			if(this._view == null){
+				this._view = new game.GameView();
+				this.show(this._view);
+			}
+		}
+		protected createdCallBack():void{
+		}
+		protected destroy():void{
+			this._view = null;
+		}
+	}
+}

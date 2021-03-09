@@ -1,0 +1,4 @@
+class HeroControler {
+	public constructor() {
+	}
+}

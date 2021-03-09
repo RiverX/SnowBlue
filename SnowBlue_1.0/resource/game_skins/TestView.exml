@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="TestView" width="400" height="800" xmlns:e="http://ns.egret.com/eui" xmlns:game="game.*" xmlns:w="http://ns.egret.com/wing">
+	<e:Image width="251" height="373" x="30" y="16" anchorOffsetX="0" anchorOffsetY="0" source="bg_jpg"/>
+	<e:Button label="Button" x="98" y="469"/>
+	<e:CheckBox label="CheckBox" x="98" y="421"/>
+	<game:HeroView id="hero" width="20" height="20" x="147" y="620" skinName="skins.CheckBoxSkin"/>
+</e:Skin>

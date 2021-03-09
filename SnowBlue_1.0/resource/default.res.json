@@ -1,0 +1,273 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,smoke_png,battle_win_json,arrow_fly_json,hero_png,bg2_jpg,etenergy_circle_json,10001_png,10002_png,10003_png,10004_png,10005_png,10006_png,10007_png,10008_png,10009_png,10010_png,10011_png,10012_png,10013_png,10014_png,10015_png,10016_png,10017_png,10018_png,10019_png,10020_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "smoke_png",
+			"type": "image",
+			"url": "assets/GameUI/smoke.png"
+		},
+		{
+			"name": "battle_win_json",
+			"type": "sheet",
+			"url": "assets/sheet/battle_win.json",
+			"subkeys": "0_00011_png,0_00000_png,0_00001_png,0_00002_png,0_00003_png,0_00004_png,0_00005_png,0_00006_png,0_00007_png,0_00008_png,0_00009_png,0_00010_png"
+		},
+		{
+			"name": "arrow_fly_json",
+			"type": "sheet",
+			"url": "assets/sheet/arrow_fly.json",
+			"subkeys": "10000,10001,10002,10003,10004,10005,10006,10007,10008,10009,10010,10011,10012,10013,10014,10015,10016,10017,10018,10019,10020,10021,10022,10023,10024,10025,10026,10027,10028,10029,10030,10031,10032,10033,10034,10035,10036,10037,10038,10039,10040,10041,10042,10043,10044,10045,10046,10047,10048,10049,10050"
+		},
+		{
+			"name": "hero_png",
+			"type": "image",
+			"url": "assets/GameUI/hero.png"
+		},
+		{
+			"name": "bg2_jpg",
+			"type": "image",
+			"url": "assets/GameUI/bg.jpg"
+		},
+		{
+			"name": "etenergy_circle_json",
+			"type": "sheet",
+			"url": "assets/sheet/etenergy_circle.json",
+			"subkeys": "10001,10002,10003,10004,10005,10006,10007,10008,10009,10010,10011,10012,10013,10014,10015,10016,10017,10018,10019,10020"
+		},
+		{
+			"name": "10001_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10001.png"
+		},
+		{
+			"name": "10002_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10002.png"
+		},
+		{
+			"name": "10003_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10003.png"
+		},
+		{
+			"name": "10004_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10004.png"
+		},
+		{
+			"name": "10005_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10005.png"
+		},
+		{
+			"name": "10006_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10006.png"
+		},
+		{
+			"name": "10007_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10007.png"
+		},
+		{
+			"name": "10008_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10008.png"
+		},
+		{
+			"name": "10009_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10009.png"
+		},
+		{
+			"name": "10010_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10010.png"
+		},
+		{
+			"name": "10011_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10011.png"
+		},
+		{
+			"name": "10012_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10012.png"
+		},
+		{
+			"name": "10013_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10013.png"
+		},
+		{
+			"name": "10014_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10014.png"
+		},
+		{
+			"name": "10015_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10015.png"
+		},
+		{
+			"name": "10016_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10016.png"
+		},
+		{
+			"name": "10017_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10017.png"
+		},
+		{
+			"name": "10018_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10018.png"
+		},
+		{
+			"name": "10019_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10019.png"
+		},
+		{
+			"name": "10020_png",
+			"type": "image",
+			"url": "assets/GameUI/circle/10020.png"
+		}
+	]
+}
